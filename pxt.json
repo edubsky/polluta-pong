@@ -1,5 +1,5 @@
 {
-    "name": "Polluta Pong v0.9.2",
+    "name": "Polluta Pong v0.9.3",
     "version": "0.1.0",
     "description": "",
     "dependencies": {
@@ -24,12 +24,12 @@
         "branch": "v1.7.22",
         "tag": "v1.7.22",
         "commits": "https://github.com/microsoft/pxt-arcade/commits/fa9cc16632907b4dd59f733b62e573beded922dc",
-        "target": "1.7.22",
+        "target": "1.7.24",
         "pxt": "7.3.23",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
